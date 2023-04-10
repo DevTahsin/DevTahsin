@@ -1,5 +1,5 @@
 ### Hi 👋 I'm tahsin but i prefer to be called tayco (tai-cho).
-- I'm currently studying computer engineering 👨‍💻
+- Full time software engineer 👨‍💻
 
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -10,5 +10,5 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
+[![Contact with LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgul/)
 ![](https://dcbadge.vercel.app/api/shield/289446672273113090)
